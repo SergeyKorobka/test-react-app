@@ -10,7 +10,7 @@ function App() {
   };
   return (
     <>
-      <h1>Products</h1>
+      <h1>Products Title</h1>
       <Product
         clicks={clicks}
         handleClick={handleClick}
